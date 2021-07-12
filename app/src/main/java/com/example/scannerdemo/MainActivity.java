@@ -18,6 +18,7 @@ import com.google.zxing.integration.android.IntentResult;
 
 public class MainActivity extends AppCompatActivity {
     //Init var
+    //In 1
     Button btScan;
 
     @Override
