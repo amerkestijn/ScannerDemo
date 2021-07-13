@@ -36,7 +36,7 @@ public class MainActivity extends AppCompatActivity {
                        MainActivity.this
                );
                //Set prompt
-               intentIntegrator.setPrompt("Flash = volume up");
+               intentIntegrator.setPrompt("Volume up = flash");
                //Beep
                intentIntegrator.setBeepEnabled(true);
                //Orient lock
